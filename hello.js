@@ -4,3 +4,4 @@ function (){
 function liutaojunnan(){
 	console.log('liutaojunann');
 }
+function zhangqian(){console.log(zhangqian)}
