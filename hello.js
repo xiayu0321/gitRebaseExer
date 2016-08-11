@@ -13,3 +13,7 @@ function lxy(){
 function liutaojunnan(){
 	console.log('liutaojunann');
 }
+
+function zyn(){
+    console.log('zyn'); 
+}
