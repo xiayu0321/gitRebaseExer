@@ -5,3 +5,6 @@ function (){
 function lxy(){
 	//lxy
 }
+function liutaojunnan(){
+	console.log('liutaojunann');
+}
