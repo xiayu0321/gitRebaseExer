@@ -1,1 +1,3 @@
-=
+function zyn(){
+   console.log("zyn");
+}
